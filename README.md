@@ -1,9 +1,9 @@
 # [FitNesse](http://fitnesse.org/)  [![maven central](https://maven-badges.herokuapp.com/maven-central/org.fitnesse/fitnesse/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/org.fitnesse/fitnesse) [![SonarQube Tech Debt](https://img.shields.io/sonar/http/nemo.sonarqube.org/org.fitnesse:fitnesse/tech_debt.svg)](http://nemo.sonarqube.org/dashboard/index?id=org.fitnesse%3Afitnesse)
 
-Welcome to FitNesse, the fully integrated stand-alone acceptance testing framework and wiki.
+Welcome to FitNesse, the fully integrated stand-alone acceptance testing framework and wiki
 
 
-To get started, check out this awesome and useful [http://fitnesse.org](http://fitnesse.org)!
+To get started, check out this awesome and useful [http://fitnesse.org](http://fitnesse.org)
 
 
 
@@ -17,7 +17,7 @@ To get started, check out this awesome and useful [http://fitnesse.org](http://f
 
 ## Bug tracker
 
-Have a bug or a feature request? [Please open a new issue](https://github.com/unclebob/fitnesse/issues).
+Have a bug or a feature request? [Please open a new issue](https://github.com/unclebob/fitnesse/issues)
 
 
 ## Community
@@ -32,11 +32,11 @@ The latest stable build of FitNesse can be [downloaded here](https://cleancoder.
 
 ## Developers
 
-Issues and pull requests are administered at [GitHub](https://github.com/unclebob/fitnesse/issues).
+Issues and pull requests are administered at [GitHub](https://github.com/unclebob/fitnesse/issues)
 
 ### Building
 
-A proper internet connection is sufficient to build FitNesse. The build process will bootstrap itself by downloading [Gradle](http://gradle.org) and from there will download the dependencies required to build and test FitNesse.
+A proper internet connection is sufficient to build FitNesse. The build process will bootstrap itself by downloading [Gradle](http://gradle.org) and from there will download the dependencies required to build and test Fitnesse.
 
 To build and run all tests, run the command:
 
@@ -70,7 +70,7 @@ To run the acceptance tests:
 $ ./gradlew acceptanceTest
 ```
 
-Direct any questions to the [FitNesse Yahoo group](https://groups.yahoo.com/neo/groups/fitnesse/info).
+Direct any questions to the [FitNesse Yahoo group](https://groups.yahoo.com/neo/groups/fitnesse/info)
 
 
 ### Working with Eclipse and IntelliJ
